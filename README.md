@@ -1,6 +1,6 @@
 # Heroes APP
 
-## Levantar desarrollo
+## Levantar Desarrollo
 
 1. Clonar el repositorio
 2. Editar el archivo `.env` con las variables de entorno basado en el archivo `env.template`
